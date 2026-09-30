@@ -1,0 +1,87 @@
+nav ul {
+    display: flex;
+    flex-direction: row;
+    gap: 5em;
+    justify-content: center;
+}
+
+li {
+    list-style: none;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+body {
+    margin: 50px auto;
+    max-width: 800px;
+}
+
+h1 {
+    margin-top: 1em;
+}
+
+h2 {
+    margin-top: 1em;
+    margin-bottom: 0.2em;
+    color: rgb(111, 145, 60);
+}
+
+h3 {
+    margin-top: 0.5em;
+}
+
+p {
+    margin-top: 0.5em;
+    line-height: 1.5;
+}
+
+address {
+    line-height: 1.5em;
+}
+
+address a {
+    color: black;
+}
+
+ul li {
+    margin-left: 30px;
+    margin-top: 0.5em;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.duration {
+    margin-top: 0.5em;
+    font-style: italic;
+}
+
+.certificate-name {
+    font-weight: bold;
+}
+
+.opaque {
+    opacity: 60%;
+}
+
+.project-name {
+    font-size: 1.3em;
+    margin-top: 2em;
+    margin-bottom: 0.2em;
+    color: black;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    margin: 1em auto;
+}
