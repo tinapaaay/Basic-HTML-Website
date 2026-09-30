@@ -1,59 +1,37 @@
-# Basic-HTML-Website
-Basic HTML Website
+# Basic HTML Website
 
-A multi-page website built with HTML only. This project focuses on creating a clear, semantic structure that can be styled with CSS in a future project.
+This is a multi-page personal website that I built using HTML and simple CSS.
 
-This project was built for the roadmap.sh Basic HTML Website project.
+I made this project to practice structuring a website with semantic HTML, creating multiple pages, linking pages through a navigation bar, and adding basic styling.
 
-Pages
+## What I Did
 
-Home — An introduction and overview of the website.
+* Created a homepage, projects page, articles page, and contact page
+* Added a navigation bar that links all pages together
+* Used semantic HTML elements such as `header`, `nav`, `main`, `section`, and `footer`
+* Added SEO meta tags to each page
+* Created a contact form with name, email, and message fields
+* Added simple CSS for the navigation layout and spacing
+* Added a favicon
 
-Projects — A page that lists my projects.
+## Built With
 
-Articles — A page for my articles and learning notes.
+* HTML5
+* CSS3
 
-Contact — A contact page with a form for name, email, and message.
+## Pages
 
-Features
+* **Home** — Introduction and overview
+* **Projects** — My projects and project links
+* **Articles** — Articles and learning notes
+* **Contact** — A contact form
 
-Multiple HTML pages
+## Project Link
 
-Consistent navigation bar on every page
+This project is based on the [Basic HTML Website project from roadmap.sh](https://roadmap.sh/projects/basic-html-website).
 
-Semantic HTML elements, including header, nav, main, section, and footer
-
-SEO meta tags on each page
-
-Contact form with name, email, and message fields
-
-HTML-only structure, ready to be styled later with CSS
-
-Built With
-
-HTML5
-
-Project Structure
-
-basic-html-website/
-├── index.html       # Homepage
-├── projects.html    # Projects page
-├── articles.html    # Articles page
-├── contact.html     # Contact page
-└── README.md        # Project documentation
-
-Project Requirements
-
-Use semantic HTML to organize each page.
-
-Add a navigation bar that links all pages.
-
-Include SEO meta tags in the head of every page.
-
-Add a contact form with fields for name, email, and message.
-
-Author
+## Author
 
 Christine Joy Espiritu
 
-GitHub: @tinapaay
+* GitHub: [@tinapaaay](https://github.com/tinapaaay)
