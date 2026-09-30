@@ -85,3 +85,7 @@ a {
     justify-content: center;
     margin: 1em auto;
 }
+
+.project-name li a{
+    color:black;
+}
